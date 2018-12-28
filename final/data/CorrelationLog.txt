@@ -1,0 +1,94 @@
+Debug Message:
+	Correlation engine instance created; using configuration Default
+
+Debug Message:
+	Rules could not be applied to http://www.bing.com/favicon.ico
+
+Debug Message:
+	Rules could not be applied to http://127.0.0.1:1080/WebTours
+
+Debug Message:
+	TaskID=15  URL=http://127.0.0.1:1080/WebTours/
+
+Debug Message:
+	TaskID=17  URL=http://127.0.0.1:1080/WebTours/header.html
+
+Debug Message:
+	TaskID=21  URL=http://127.0.0.1:1080/WebTours/welcome.pl?signOff=true
+
+Debug Message:
+	TaskID=22  URL=http://127.0.0.1:1080/WebTours/home.html
+
+Debug Message:
+	TaskID=23  URL=http://127.0.0.1:1080/WebTours/nav.pl?in=home
+
+Debug Message:
+	Rules could not be applied to http://127.0.0.1:1080/WebTours/login.pl
+
+Creating parameter {WCSParam2}:
+	SourceTaskID   = "23"
+	TargetTaskID   = "28"
+	Rule type      = "2"
+	Rule name      = "usersessionid"
+	TargetType     = "1"
+	TargetTypeInfo = ""
+	ReplacedValue  = "125225.936816525zttVDAQpVcfDiztHpiftHf"
+	ReplacePos     = "0"
+
+Debug Message:
+	Rules could not be applied to http://127.0.0.1:1080/WebTours/nav.pl?in=home
+
+Debug Message:
+	TaskID=28  URL=http://127.0.0.1:1080/WebTours/login.pl
+
+Debug Message:
+	TaskID=31  URL=http://127.0.0.1:1080/WebTours/nav.pl?page=menu&in=home
+
+Debug Message:
+	Rules could not be applied to http://127.0.0.1:1080/WebTours/welcome.pl?page=search
+
+Debug Message:
+	Rules could not be applied to http://127.0.0.1:1080/WebTours/nav.pl?page=menu&in=home
+
+Debug Message:
+	TaskID=41  URL=http://127.0.0.1:1080/WebTours/welcome.pl?page=search
+
+Debug Message:
+	TaskID=42  URL=http://127.0.0.1:1080/WebTours/nav.pl?page=menu&in=flights
+
+Debug Message:
+	TaskID=45  URL=http://127.0.0.1:1080/WebTours/reservations.pl?page=welcome
+
+Debug Message:
+	TaskID=47  URL=http://127.0.0.1:1080/WebTours/reservations.pl
+
+Debug Message:
+	TaskID=48  URL=http://127.0.0.1:1080/WebTours/reservations.pl
+
+Debug Message:
+	TaskID=49  URL=http://127.0.0.1:1080/WebTours/reservations.pl
+
+Debug Message:
+	Rules could not be applied to http://127.0.0.1:1080/WebTours/welcome.pl?page=itinerary
+
+Debug Message:
+	Rules could not be applied to http://127.0.0.1:1080/WebTours/nav.pl?page=menu&in=flights
+
+Debug Message:
+	TaskID=51  URL=http://127.0.0.1:1080/WebTours/welcome.pl?page=itinerary
+
+Debug Message:
+	TaskID=52  URL=http://127.0.0.1:1080/WebTours/itinerary.pl
+
+Debug Message:
+	TaskID=53  URL=http://127.0.0.1:1080/WebTours/nav.pl?page=menu&in=itinerary
+
+Debug Message:
+	TaskID=58  URL=http://127.0.0.1:1080/WebTours/welcome.pl?signOff=1
+
+Debug Message:
+	TaskID=59  URL=http://127.0.0.1:1080/WebTours/home.html
+
+Debug Message:
+	TaskID=60  URL=http://127.0.0.1:1080/WebTours/nav.pl?in=home
+
